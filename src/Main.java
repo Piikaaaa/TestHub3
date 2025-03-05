@@ -11,7 +11,7 @@ public class Main {
 
     }
     private static void method2(){
-
+        System.out.println("ADIOS");
     }
     private static void method3(){
 
