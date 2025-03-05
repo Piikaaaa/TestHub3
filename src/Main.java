@@ -17,7 +17,7 @@ public class Main {
 
     }
     private static void method4(){
-        System.out.println("christian malo");
+        System.out.println("christian bueno");
     }
 
 }
